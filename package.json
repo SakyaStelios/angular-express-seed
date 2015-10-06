@@ -1,13 +1,13 @@
 {
-  "name": "application-name",
+  "name": "angular-express-seed",
   "version": "0.0.1",
   "private": true,
   "dependencies": {
     "body-parser": "^1.0.2",
     "errorhandler": "^1.0.1",
-    "express": "~4.1.1",
-    "jade": "~0.31.2",
-    "method-override": "^1.0.0",
+    "express": "~4.13.3",
+    "jade": "~1.11.0",
+    "method-override": "^2.3.5",
     "morgan": "^1.0.0"
   }
 }
